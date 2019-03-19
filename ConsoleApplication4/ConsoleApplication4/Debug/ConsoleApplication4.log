@@ -1,0 +1,15 @@
+﻿  ConsoleApplication4.cpp
+c:\users\류더우먼\source\repos\consoleapplication4\consoleapplication4\consoleapplication4.cpp(42): warning C4091: '': 변수를 선언하지 않으면 'BlockID' 왼쪽은 무시됩니다.
+c:\users\류더우먼\source\repos\consoleapplication4\consoleapplication4\consoleapplication4.cpp(60): warning C4091: '': 변수를 선언하지 않으면 'BlockID' 왼쪽은 무시됩니다.
+c:\users\류더우먼\source\repos\consoleapplication4\consoleapplication4\consoleapplication4.cpp(61): warning C4091: '': 변수를 선언하지 않으면 'BlockID' 왼쪽은 무시됩니다.
+c:\users\류더우먼\source\repos\consoleapplication4\consoleapplication4\consoleapplication4.cpp(62): warning C4091: '': 변수를 선언하지 않으면 'BlockID' 왼쪽은 무시됩니다.
+c:\users\류더우먼\source\repos\consoleapplication4\consoleapplication4\consoleapplication4.cpp(63): warning C4091: '': 변수를 선언하지 않으면 'BlockID' 왼쪽은 무시됩니다.
+c:\users\류더우먼\source\repos\consoleapplication4\consoleapplication4\consoleapplication4.cpp(64): warning C4091: '': 변수를 선언하지 않으면 'BlockID' 왼쪽은 무시됩니다.
+c:\users\류더우먼\source\repos\consoleapplication4\consoleapplication4\consoleapplication4.cpp(65): warning C4091: '': 변수를 선언하지 않으면 'BlockID' 왼쪽은 무시됩니다.
+c:\users\류더우먼\source\repos\consoleapplication4\consoleapplication4\consoleapplication4.cpp(66): warning C4091: '': 변수를 선언하지 않으면 'BlockID' 왼쪽은 무시됩니다.
+c:\users\류더우먼\source\repos\consoleapplication4\consoleapplication4\consoleapplication4.cpp(67): warning C4091: '': 변수를 선언하지 않으면 'BlockID' 왼쪽은 무시됩니다.
+c:\users\류더우먼\source\repos\consoleapplication4\consoleapplication4\consoleapplication4.cpp(68): warning C4091: '': 변수를 선언하지 않으면 'BlockID' 왼쪽은 무시됩니다.
+c:\users\류더우먼\source\repos\consoleapplication4\consoleapplication4\consoleapplication4.cpp(69): warning C4091: '': 변수를 선언하지 않으면 'BlockID' 왼쪽은 무시됩니다.
+c:\users\류더우먼\source\repos\consoleapplication4\consoleapplication4\consoleapplication4.cpp(70): warning C4091: '': 변수를 선언하지 않으면 'BlockID' 왼쪽은 무시됩니다.
+c:\users\류더우먼\source\repos\consoleapplication4\consoleapplication4\consoleapplication4.cpp(71): warning C4091: '': 변수를 선언하지 않으면 'BlockID' 왼쪽은 무시됩니다.
+  ConsoleApplication4.vcxproj -> C:\Users\류더우먼\source\repos\ConsoleApplication4\Debug\ConsoleApplication4.exe
